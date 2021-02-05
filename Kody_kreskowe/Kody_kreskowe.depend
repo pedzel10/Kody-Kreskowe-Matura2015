@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612524615 source:e:\stanis³aw\informtyka_matura_c\2015\czerwiec\kody_kreskowe\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
