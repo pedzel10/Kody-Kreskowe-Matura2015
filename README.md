@@ -1,7 +1,7 @@
 # Kody Kreskowe - Matura 2015
-## Egzamin maturalny z informatyki
-### Poziom rozszerzony
-### Część II
+###### Egzamin maturalny z informatyki
+###### Poziom rozszerzony
+###### Część II
 
 Zadanie 6.
 Kody kreskowe
